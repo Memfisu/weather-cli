@@ -11,7 +11,7 @@
     "start": "node weather.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Aigiul Gastmova",
+  "author": "Aigiul Gasymova",
   "license": "ISC",
   "dependencies": {
     "axios": "^1.6.8",
